@@ -1,4 +1,4 @@
-#Author: Bhavarth Bhangdia
+# Author: Bhavarth Bhangdia
 # Sentiment Analysis using BiLSTM and CNN
 
 This project focuses on sentiment analysis of human-written movie reviews using deep learning models. The objective is to classify whether a given movie review expresses a positive or negative sentiment. Two main models were developed: one based on Bidirectional Long Short-Term Memory (BiLSTM) and another based on Convolutional Neural Networks (CNN).
